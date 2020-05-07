@@ -4,6 +4,7 @@ from django.db import models
 class Post(models.Model):
     """Class to contain the information/content regarding a given blog post."""
     title = models.CharField(max_length = 120) #Every post has a title.
+    image = models.FileField(null = True, blank = True)
     content = models.TextField() #The main content of the post.
     last_updated = models.DateTimeField(auto_now = True, auto_now_add = False)
     timestamp = models.DateTimeField(auto_now = False, auto_now_add = True)
