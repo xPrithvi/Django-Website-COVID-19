@@ -4,7 +4,7 @@ The following repository was a school-based project in which we aimed to create 
 
 - **Racism & COVID-19** written by Prithvi Ramrucha.
 
-- **Post-COVID China** written by Yash Soobarah
+- **Post-COVID China** written by Yash Soobarah.
 
 - **Mauritius: Economic Impact of COVID-19** written by Shaan Dussoye.
 
